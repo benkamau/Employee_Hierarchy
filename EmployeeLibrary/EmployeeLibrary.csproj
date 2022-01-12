@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="EmployeeLibrary">
+      <HintPath>bin\Debug\netstandard2.0\EmployeeLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

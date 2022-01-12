@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLibrary", "EmployeeLibrary\EmployeeLibrary.csproj", "{A9E15CF3-D610-4438-9F6D-3015535A5DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunEmployeeLibrary", "RunEmployeeLibrary\RunEmployeeLibrary.csproj", "{7AB3A172-168B-4051-84AD-C65A62C29229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEmployees", "TestEmployees\TestEmployees.csproj", "{1C3D3364-B301-4881-AE28-95AAF212404F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E15CF3-D610-4438-9F6D-3015535A5DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E15CF3-D610-4438-9F6D-3015535A5DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E15CF3-D610-4438-9F6D-3015535A5DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E15CF3-D610-4438-9F6D-3015535A5DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB3A172-168B-4051-84AD-C65A62C29229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB3A172-168B-4051-84AD-C65A62C29229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB3A172-168B-4051-84AD-C65A62C29229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB3A172-168B-4051-84AD-C65A62C29229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3D3364-B301-4881-AE28-95AAF212404F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3D3364-B301-4881-AE28-95AAF212404F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3D3364-B301-4881-AE28-95AAF212404F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3D3364-B301-4881-AE28-95AAF212404F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7AB3A172-168B-4051-84AD-C65A62C29229}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestEmployees FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RunEmployeeLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestEmployees/UnitTest1.cs">
+    <Files>
+      <File FileName="RunEmployeeLibrary/Program.cs" Line="17" Column="26" />
+      <File FileName="TestEmployees/UnitTest1.cs" Line="21" Column="31" />
+      <File FileName="EmployeeLibrary/Employees.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeLibrary" expanded="True">
+            <Node name="EmployeeLibrary" expanded="True" />
+            <Node name="RunEmployeeLibrary" expanded="True" />
+            <Node name="TestEmployees" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="EmployeeLibrary" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
